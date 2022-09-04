@@ -24,7 +24,7 @@ a:hover {
 
 .main-nav {
   width: 100%;
-  background: light;
+  background-color: transparent;
   min-height: 30px;
   padding: 10px;
   position: fixed;
